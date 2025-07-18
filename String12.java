@@ -1,4 +1,4 @@
-c:\Users\om\Desktop\DSA Java\java programs\String13.java// find the first non-repeated character
+// find the first non-repeated character
 
 public class String12 {
     public static void findFirstNonRepeated(String str) {
